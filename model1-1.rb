@@ -18,3 +18,7 @@ is_bald = true
 # Variables that are assigned to arrays
 vacations = ["Vermont","Asheville","Mexico"]
 guitars = ["Paul Reed Smith", "Fender", "Collings"]
+
+# Variables that are assigned to Hash
+fruits = {orange: 1, lemon: 2, lime: 3}
+bikes = {surly: 1, fairdale: 2, allcity: 3}
